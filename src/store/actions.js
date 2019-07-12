@@ -15,10 +15,10 @@ const actionsCreators = {
     return [];
   },
 
-    updateSearch: (state, actions, data) => {
-        actions.changeValue({ search: data });
-      return  [];
-    },
+  updateSearch: (state, actions, data) => {
+    actions.changeValue({ search: data });
+    return [];
+  }
 };
 
 export default actionsCreators;

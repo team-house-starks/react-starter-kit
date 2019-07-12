@@ -31,11 +31,11 @@ const Header = () => {
               </div>
               <div className="search-label-container">
                 <input
+                  onChange={event => {
+                    actions.updateSearch(event.target.value);
+                  }}
                   placeholder="Museums in berlin"
                   type="text"
-                  onChange={(event)=>{
-                      actions.updateSearch(event.target.value);
-                  }}
                 />
                 <button className="search-button">Search</button>
               </div>

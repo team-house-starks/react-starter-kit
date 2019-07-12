@@ -4,7 +4,7 @@ import actionsCreators from './actions';
 const config = {
   initialState: {
     activityMockData: [],
-      search: ''
+    search: ''
   },
   actionsCreators
 };

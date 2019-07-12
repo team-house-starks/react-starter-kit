@@ -5,11 +5,12 @@ import { connect } from '../../store';
 const HolidayDestinations = props => {
   const { activityMockData, search } = props;
   //    let displayCount = 6;
-    if(search) {
-        return <div></div>
-    }
+  if (search) {
+    return <div />;
+  }
   const holidayItemCard =
-      activityMockData && activityMockData.map((holiday, index) => {
+    activityMockData &&
+    activityMockData.map((holiday, index) => {
       return (
         <div
           className="holiday-item-card-wrapper"
