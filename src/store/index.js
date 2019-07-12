@@ -3,7 +3,8 @@ import actionsCreators from './actions';
 
 const config = {
   initialState: {
-    activityMockData: {}
+    activityMockData: [],
+      search: ''
   },
   actionsCreators
 };

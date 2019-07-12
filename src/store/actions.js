@@ -10,10 +10,15 @@ const actionsCreators = {
 
   getActivity: (state, actions) => {
     if (activityMockData) {
-      actions.changeValue({ activityMockData: activityMockData });
+      actions.changeValue({ activityMockData: activityMockData.tours });
     }
-    return {};
-  }
+    return [];
+  },
+
+    updateSearch: (state, actions, data) => {
+        actions.changeValue({ search: data });
+      return  [];
+    },
 };
 
 export default actionsCreators;

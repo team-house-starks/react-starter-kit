@@ -9,8 +9,8 @@ class Wrapper extends Component {
     return (
       <div>
         <Header />
-        <SuggestedActivities {...this.props} />
-        <HolidayDestinations {...this.props} />
+        <SuggestedActivities />
+        <HolidayDestinations />
         <Footer />
       </div>
     );

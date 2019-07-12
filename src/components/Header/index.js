@@ -33,6 +33,9 @@ const Header = () => {
                 <input
                   placeholder="Museums in berlin"
                   type="text"
+                  onChange={(event)=>{
+                      actions.updateSearch(event.target.value);
+                  }}
                 />
                 <button className="search-button">Search</button>
               </div>

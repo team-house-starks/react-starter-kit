@@ -9,11 +9,7 @@ class AppContainer extends Component {
   };
 
   render() {
-    const { activityMockData } = this.props;
-    const props = {
-      activityMockData
-    };
-    return <AppWrapper {...props} />;
+    return <AppWrapper />;
   }
 }
 

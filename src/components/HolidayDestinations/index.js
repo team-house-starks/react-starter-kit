@@ -3,11 +3,13 @@ import './HolidayDestinations.css';
 import { connect } from '../../store';
 
 const HolidayDestinations = props => {
-  const { tours } = props.activityMockData;
-  let displayCount = 6;
+  const { activityMockData, search } = props;
+  //    let displayCount = 6;
+    if(search) {
+        return <div></div>
+    }
   const holidayItemCard =
-    tours &&
-    tours.slice(2, displayCount).map((holiday, index) => {
+      activityMockData && activityMockData.map((holiday, index) => {
       return (
         <div
           className="holiday-item-card-wrapper"
