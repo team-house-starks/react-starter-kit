@@ -1,0 +1,172 @@
+{
+    "tours": [
+        {
+            "title": "German Tour: Parliament Quarter \u0026 Reichstag glass dome",
+            "price": "14",
+            "currency": "$",
+            "rating": "4.8",
+            "isSpecialOffer": false,
+            "type": "VISITING",
+            "expires": "15",
+            "country": "Europe",
+            "placesCount": "23",
+            "imageUrl": "https://image.jimcdn.com/app/cms/image/transf/none/path/sa6549607c78f5c11/image/ieb423bab90737026/version/1517997846/lisbon-portugal-best-destinations-in-europe.jpg"
+        },
+        {
+            "title": "Skip the Line: Pergamon Museum Berlin Tickets",
+            "price": "21",
+            "currency": "$",
+            "rating": "4.8",
+            "isSpecialOffer": false,
+            "type": "VISITING",
+            "expires": "17",
+            "country": "Chile",
+            "placesCount": "11",
+            "imageUrl": "https://lonelyplanetwpnews.imgix.net/2018/03/busabout.jpg"
+        },
+        {
+            "title": "Berlin WelcomeCard: Transport, Discounts \u0026; Guide Book",
+            "price": "10",
+            "currency": "$",
+            "rating": "4.6",
+            "isSpecialOffer": false,
+            "type": "INFORMATION",
+            "expires": "56",
+            "country": "Brazil",
+            "placesCount": "23",
+            "imageUrl": "https://www.backyardtravel.com/wp-content/uploads/2018/03/Thailand-Koh-Samui-Tourists-in-Thailand-multi-country-holidays-in-asia.jpg"
+        },
+        {
+            "title": "Skip the Line: Berlin TV Tower Ticket",
+            "price": "143",
+            "currency": "$",
+            "rating": "4.6",
+            "isSpecialOffer": false,
+            "type": "VISITING",
+            "expires": "23",
+            "country": "Peru",
+            "placesCount": "14",
+            "imageUrl": "https://i.ytimg.com/vi/BZLZyX3JdEM/maxresdefault.jpg"
+        },
+        {
+            "title": "1-Hour City Tour by Boat with Guaranteed Seating",
+            "price": "14",
+            "currency": "$",
+            "rating": "4.5",
+            "isSpecialOffer": false,
+            "type": "VISITING",
+            "expires": "13",
+            "country": "Dubai",
+            "placesCount": "14",
+            "imageUrl": "https://amp.businessinsider.com/images/5982df2e76084a26008b4a36-1920-960.jpg"
+        },
+        {
+            "title": "Berlin Hop-on Hop-off Bus Tour: 1- or 2-Day Ticket",
+            "price": "210",
+            "currency": "$",
+            "rating": "4.3",
+            "isSpecialOffer": false,
+            "type": "VISITING",
+            "expires": "15",
+            "country": "Indonesia",
+            "placesCount": "35",
+            "imageUrl": "https://thetravelintern.com/wp-content/uploads/2018/05/Mont-Saint-Michel-France-Budget-Itinerary.jpg"
+        },
+        {
+            "title": "German Tour: Reichstag with Plenary Chamber \u0026; Cuppola",
+            "price": "59",
+            "currency": "$",
+            "rating": "4.8",
+            "isSpecialOffer": false,
+            "type": "VISITING",
+            "expires": "12",
+            "country": "Nepal",
+            "placesCount": "24",
+            "imageUrl": "https://i.pinimg.com/originals/52/3e/69/523e6993a08eb0bebf780375649813bd.jpg"
+        },
+        {
+            "title": "Berlin: 2.5-Hour Boat Tour Along the River Spree",
+            "price": "41",
+            "currency": "$",
+            "rating": "4.5",
+            "isSpecialOffer": true,
+            "type": "VISITING",
+            "expires": "23",
+            "country": "Maldives",
+            "placesCount": "11",
+            "imageUrl": "https://brightcove04pmdo-a.akamaihd.net/5104226627001/5104226627001_5593027624001_5589208719001-vs.jpg?pubId=5104226627001&videoId=5589208719001"
+        },
+        {
+            "title": "Museum Pass Berlin: 3-Day Entry to Over 40 Top Museums",
+            "price": "14",
+            "currency": "$",
+            "rating": "4.5",
+            "isSpecialOffer": false,
+            "type": "VISITING",
+            "expires": "12",
+            "country": "Australia",
+            "placesCount": "10",
+            "imageUrl": "https://i.ytimg.com/vi/oj0uS9ZlQHY/maxresdefault.jpg"
+        },
+        {
+            "title": "Reichstag: Rooftop Coffee Break at K\u00e4fer",
+            "price": "50",
+            "currency": "$",
+            "rating": "4.6",
+            "isSpecialOffer": true,
+            "type": "RELAXATION",
+            "expires": "45",
+            "country": "New Zealand",
+            "placesCount": "23",
+            "imageUrl": "https://www.telegraph.co.uk/content/dam/Travel/2018/May/amsterdam-tourism-xlarge.jpg"
+        },
+        {
+            "title": "Skip the Line: Neues Museum Berlin Tickets",
+            "price": "46",
+            "currency": "$",
+            "rating": "4.9",
+            "isSpecialOffer": true,
+            "type": "VISITING",
+            "expires": "55",
+            "country": "Egypt",
+            "placesCount": "26",
+            "imageUrl": "https://www.amsterdam.info/photos/content/presentation/amsterdam-jordaan-district-street.jpg"
+        },
+        {
+            "title": "German Tour: Reichstag with dome Chamber \u0026;",
+            "price": "87",
+            "currency": "$",
+            "rating": "4.8",
+            "isSpecialOffer": false,
+            "type": "VISITING",
+            "expires": "25",
+            "country": "France",
+            "placesCount": "15",
+            "imageUrl": "https://www.neweuropetours.eu/wp-content/uploads/2019/03/amsterdam-tourism-everything-you-need-to-know-1600x900.jpg"
+        },
+        {
+            "title": "Berlin Hop-on Hop-off Bus Tour with Live Commentary",
+            "price": "8",
+            "currency": "$",
+            "rating": "4.3",
+            "isSpecialOffer": false,
+            "type": "VISITING",
+            "expires": "55",
+            "country": "Belgium",
+            "placesCount": "10",
+            "imageUrl": "https://s25743.pcdn.co/wp-content/uploads/2018/09/top-tourist-attractions-in-amsterdam-the-netherlands-royal-palace.jpg"
+        },
+        {
+            "title": "Skip the Line: TV Tower Early Bird Tickets",
+            "price": "140",
+            "currency": "$",
+            "rating": "4.5",
+            "isSpecialOffer": false,
+            "type": "VISITING",
+            "expires": "35",
+            "country": "Amsterdam",
+            "placesCount": "15",
+            "imageurl": "https://www.telegraph.co.uk/content/dam/Travel/2018/October/amsterdam-iStock-611781826-xlarge.jpg"
+        }
+    ]
+}
